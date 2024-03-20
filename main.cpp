@@ -11,4 +11,6 @@ int main(void)
 	scanf("%d", p);
 	printf("%d\n", a);
 	return 0;
+
+// Я даун
 }
