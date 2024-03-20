@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 
+int summa(int a, int b);
+
 int main(void)
 {
 	system("chcp 1251");
@@ -14,3 +16,8 @@ int main(void)
 
 // Я даун
 }
+
+int summa(int a, int b) {
+	return a + b;
+}
+//я артем!!!
