@@ -28,7 +28,7 @@ int pow(int a, int b)
 	}
 	return rez;
 }
-}
+
 
 int summa(int a, int b) {
 	return a + b;
